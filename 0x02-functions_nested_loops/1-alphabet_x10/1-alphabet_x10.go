@@ -1,3 +1,6 @@
+/*
+Prints the alphabet ten times in lower case.
+*/
 package main
 
 import (
